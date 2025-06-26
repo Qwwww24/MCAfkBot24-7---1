@@ -8,7 +8,7 @@ app.listen(3000, () => console.log('Web server running on port 3000'));
 
 // === CONFIG ===
 const bot = mineflayer.createBot({
-  host: 'qw-balls.mcsh.io', // Your cracked server IP
+  host: 'qwballs.game4free.net', // Your cracked server IP
   port: 25565,              // Default Minecraft port
   username: 'qwww-AFKBOT',  // Any name, since it's a cracked server
   auth: 'offline'           // Offline = cracked
